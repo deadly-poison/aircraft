@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# 飞机大战
+微信小游戏
